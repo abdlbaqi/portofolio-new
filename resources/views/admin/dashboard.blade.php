@@ -583,7 +583,7 @@
                                 <p class="text-xs font-bold text-brand-dark">Dokumen Resume / CV</p>
                                 <span class="text-[10px] text-brand-subtext">1 hari lalu</span>
                             </div>
-                            <p class="text-[10px] text-brand-subtext font-mono">cv_fuad_bandhu_2026.pdf (1.8 MB)</p>
+                            <p class="text-[10px] text-brand-subtext font-mono">cv_fuad_abdul_baqi.pdf (1.8 MB)</p>
                         </div>
                     </div>
                 </div>
